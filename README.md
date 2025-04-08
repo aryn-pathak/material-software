@@ -1,4 +1,4 @@
-# Material ZERO 
+# Material Hands-free Printing Software
 ### 3D printer software for hands free and convenient printing (V1.0.0)
 
 This gives a web interface for uploading files and remotely monitoring prints.
